@@ -1,0 +1,102 @@
+body{
+	margin: 0;
+	padding: 0
+}
+
+.main{ 
+	margin: 0 auto;
+	padding: 15px;
+	width: 600px;
+	height: 600px;
+	border: 1px solid #000;
+}
+
+.title{
+	text-align: center;
+	color: #358795;
+	font:bold 20px arial; 
+}
+
+.titl{
+	font:bold 18px arial; 
+	text-align: center;
+	margin: 20px 0;
+}
+.search{
+	width: 300px;
+	float: left;
+	margin-bottom:28px;
+}
+
+#srch{
+	width:300px;
+	float: left;
+	margin-bottom:28px;
+}
+.result{
+	width: 304px;
+}
+
+.table{
+	
+	margin-top: 25px;
+	margin-left:25px;
+	width: 549px;
+}
+
+.col{
+	height:20px;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;	
+	float:left;
+	text-align: center;
+}
+#colmn1{
+	width: 35px;
+}
+#colmn2{
+	width: 159px;
+}
+#colmn3{
+	width: 123px;
+}
+#colmn4{
+	width: 145px;
+}
+.colm{
+	width: 82px;
+	height:20px;
+	float:left;
+	text-align: center;
+	border-bottom: 1px solid #000;
+}
+.clear{
+	clear:both;
+}
+
+.cl{
+	width:50px;
+	float: left;
+}
+.clm{
+	width:50px;
+	float: left;
+}
+
+.form{
+	margin: 0 auto;
+	padding: 25px;
+	width: 300px;
+	border:1px solid #000;
+}
+
+h2{
+	text-align: center;
+	font: bold 18px Arial;
+	margin: 50px 0 30px 0;
+	color: #CB102C;
+}
+
+.form input{
+	margin:10px 0;
+}
